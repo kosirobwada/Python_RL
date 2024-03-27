@@ -15,3 +15,5 @@ DPとベルマン方程式。
 ### p49~p85 
 Q-learning, TD法, Actor-Critic この辺は要復習が必要。  
 実際にOpenAI Gymでこの辺が実装できるようになると、強化学習わかっていると言えるかも。  
+### p86~p139 
+NN~DQN~Rainbowまで一通り見た。
